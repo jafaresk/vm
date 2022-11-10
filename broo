@@ -14,3 +14,6 @@ brook://wsserver?address=kingnetwork.irani.host%3A80&name=%40-1&password=KingNet
 brook://wsserver?address=zan-zandegi-azadi-mard-mihan-abadi.irani.host%3A80&name=%40-2&password=KingNetwork&username=&wsserver=ws%3A%2F%2Fzan-zandegi-azadi-mard-mihan-abadi.irani.host%3A80
 brook://wsserver?name=%403&password=hello&username=&wsserver=ws%3A%2F%2Fnever.irani.host%3A80
 brook://wsserver?name=%404&password=hello&username=&wsserver=ws%3A%2F%2Fdie.irani.host%3A80
+brook://wsserver?name=%40-25&wsserver=ws%3A%2F%2F95.211.58.55%3A80&username&password=kingnetwork7
+brook://wsserver?name=%40-26&wsserver=ws%3A%2F%2F95.211.249.49%3A80&username&password=kingnetwork7
+brook://wsserver?name=%40-27&wsserver=ws%3A%2F%2F37.48.102.95%3A80&username&password=kingnetwork7
